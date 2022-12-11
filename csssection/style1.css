@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap");
+body {
+  background: linear-gradient(90deg, red, blue);
+  color: #ffff;
+  /* background-color: rgb(237, 169, 79); */
+}
+.header {
+  font-family: "Montserrat";
+  /* padding-left: 25%; */
+  text-align: center;
+  margin-top: 5%;
+  color: azure;
+}
+p {
+  text-align: center;
+  font-weight: 600;
+  font-size: medium;
+  /* transform: translateY(-10px); */
+}

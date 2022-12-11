@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+h1 {
+  color: #555;
+  text-align: center;
+}
+.paragraphs {
+  color: brown;
+}
+.inner-heading {
+  text-align: center;
+  align-items: right;
+  color: rgb(37, 82, 82);
+}
+.logo {
+}
